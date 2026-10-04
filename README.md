@@ -219,3 +219,10 @@ Capture screenshots/GIFs showing:
 ## Notes
 
 The system is intentionally designed to work without an NVIDIA GPU too. If NVENC is unavailable, the server uses `libx264` so you can demonstrate the distributed architecture on ordinary computers.
+<img width="1280" height="720" alt="WhatsApp Image 2026-10-04 at 10 00 27 AM" src="https://github.com/user-attachments/assets/aa63a2ae-5bb8-4388-93fa-7d69dc6af50d" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-10-04 at 10 00 27 AM" src="https://github.com/user-attachments/assets/be40baa1-dbfa-4d24-a358-6ce4fd56aeeb" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-10-04 at 10 08 41 AM" src="https://github.com/user-attachments/assets/b9b44a4a-2532-4f28-a325-0f8a7acb616d" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-10-04 at 10 10 45 AM" src="https://github.com/user-attachments/assets/ce0415d0-cc1b-4c86-914c-580df9222c26" />
+
+
+
